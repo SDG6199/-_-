@@ -6,4 +6,4 @@
 
 - 3d mock up 결과
 
-
+  <img width="30%" src="./3d_mock_up.jpg"/>  
